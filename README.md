@@ -1,8 +1,6 @@
 ♥ SoulBeat
 A visual, no-code editor for UNDERTALE / DELTARUNE-style bullet fights synced to music. Drop a track, place attack blocks on the beat grid, watch the fight instantly — then export a ready mod for Create Your Frisk or record a video right in the browser.
 
-▶ Open the editor: https://stalinavgn.github.io/soulbeat/
-
 No install, no account, no coding. One HTML file that also works offline.
 
 What it does
